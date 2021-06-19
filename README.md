@@ -15,7 +15,7 @@ Atuamente possuo os seguintes projetos desenvolvidos.
  - Painel de gestão de passe escolar (Repositório privado no bitbucket da Prefeitura Municipal de Araras); :heavy_check_mark:
  - Painel de controle de produtividade dos fiscais da prefeitura Municipal de Araras (Repositório privado no bitbucket da Prefeitura Municipal de Araras); :heavy_check_mark:
  - Aplicativo PWA "App do servidor" desenvolvido com Angular 10 (Frontend) e Laravel 7 (Backend) (Repositório privado no bitbucket da Prefeitura Municipal de Araras); :heavy_check_mark:
- - Aplicativo da Ronda 24H em Flutter lançado para Android e iOS (backend em Laravel) para comerciantes entrarem em contato com a Guarda Civil Municipal de Araras: https://www.araras.sp.gov.br/noticias/23824 (Repositório privado no bitbucket da Prefeitura Municipal de Araras); :heavy_check_mark:
+ - Aplicativo da Ronda 24H em Flutter lançado para Android e iOS (backend em Laravel 8) para comerciantes chamar a Guarda Civil Municipal de Araras por botão de "pânico": https://www.araras.sp.gov.br/noticias/23824 (Repositório privado no bitbucket da Prefeitura Municipal de Araras); :heavy_check_mark:
  - Aplicativo PWA "Maria da Penha" desenvolvido com Ionic 5 / Angular 11 e Laravel 8 para gestão de vitimas e visitas. (Repositório privado no bitbucket da Prefeitura Municipal de Araras) :heavy_check_mark:
  
  
