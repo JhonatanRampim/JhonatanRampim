@@ -1,7 +1,7 @@
 Olá :wave:, meu nome é Jhonatan Eduardo Rampim.
 Sou formado como técnico em mecatrônica, técnico em informática para internet e estou cursando engenharia da computação na Univesidade Virtual do Estado de São Paulo.
 Fui estagiário no Departamento de Tecnologia da Informação - Divisão de Sistemas como Desenvolvedor full-stack e mobile.
-Atualmente atuo como Desenvolvedor full-stack e mobile no Departamento de Tecnologia da Informação - Divisão de Sistemas.
+Atualmente atuo como Desenvolvedor full-stack e mobile no Departamento de Tecnologia da Informação - Divisão de Sistemas da Prefeitura Municipal de Araras.
 
 Tenho interesse em:
 - Laravel :heavy_check_mark:
